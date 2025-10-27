@@ -69,5 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # luxury-shop
+<<<<<<< HEAD
 # luxury-shop
 # luxury-shop
+=======
+>>>>>>> 2991ba4 (first commit)
